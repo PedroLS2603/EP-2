@@ -17,7 +17,7 @@ Cada estrutura de relatório possui três funções: média de tempo, média de 
 
 ### Relatórios
 ---
-Os pilares do relatório foram as funções de cálculo de média de tempo e altura, utilizando a fórmula de média aritmética aplicada na listde registros AVL e BST gerados durante a execução do programa. 
+Os pilares do relatório foram as funções de cálculo de média de tempo e altura, utilizando a fórmula de média aritmética aplicada na lista de registros AVL e BST gerados durante a execução do programa. 
 ## Geração dos elementos das árvores
 Para gerar os números distintos utiliza-se a função rand() configurando o intervalo para um número de 1 a N * 1000.
 Calculando a probabilidade deste cenário temos:
