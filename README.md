@@ -15,7 +15,6 @@ altura (int)
 O principal pilar do programa foi o cálculo de altura realizado de maneira recursiva, sendo implementado em ambos os tipos de árvore.
 Cada estrutura de relatório possui três funções: média de tempo, média de altura e exibição do relatório. Estruturando a função drelatório nessas 3 partes é possível cada função tratar da sua função, abrindo espaço para outros parâmetros futuros serem implementadoneste código.
 
-&nbsp
 ### Relatórios
 ---
 Os pilares do relatório foram as funções de cálculo de média de tempo e altura, utilizando a fórmula de média aritmética aplicada na listde registros AVL e BST gerados durante a execução do programa. 
