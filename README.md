@@ -21,8 +21,9 @@ Os pilares do relatório foram as funções de cálculo de média de tempo e alt
 ## Geração dos elementos das árvores
 Para gerar os números distintos utiliza-se a função rand() configurando o intervalo para um número de 1 a N * 1000.
 Calculando a probabilidade deste cenário temos:
+```
 P = 1/(N*1000);
-
+```
 Aplicando 2 como número mínimo de elementos, temos:
 
 ```
